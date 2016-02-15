@@ -17,22 +17,22 @@ A : Idiot.
 string rawDownload = client.DownloadString("http://example.net/api.php");
 rMessage.Body = rawDownload.Replace("<br>", Environment.NewLine);
 ```
-
+---
 Q : omg why is it not responding properly?!
 
 A : Ask Skype to fix Skype4COM. I'm not releasing my own lib.
 
-
+---
 Q : omg u stole the code 4 the spinner
 
 A : I know. Original source; http://dontcodetired.com/blog/post/Creating-a-Spinner-Animation-in-a-Console-Application-in-C.aspx
 
-
+---
 Q : u didnt make this, why did u steal my source?
 
 A : Unless you're Mr. Elford, I didn't steal your source.
 
-
+---
 Q : why doesnt this work in cloud chatS?
 
 A : *laughs at Skype*
