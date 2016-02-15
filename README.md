@@ -2,6 +2,7 @@
 Very simple Skype bot - I see kids out there claiming my source as their own.
 My original release of the source > http://pastebin.com/gKqBQauY
 
+Proof of my ownership > http://pastebin.com/d2vTtfx0
 I see you idiots claiming it as your own, and here I am taking full credit for it. I made it (heavily modifying the code of proxiedev, a close friend of mine, and is no longer active) in C#, and released it on the 22nd of June 2015, after stripping down expoBot, my own Skype bot - which is also proven on http://faggot.pw/ which links to my personal site.
 
 I WILL NOT MAINTAIN THIS SOURCE. IT IS A PROJECT THAT I NEVER THOUGHT I'D HAVE TO RELEASE.
