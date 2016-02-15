@@ -10,7 +10,7 @@ The code is garbage, it should never have been released publicly; I'm only relea
 
 # FAQ
 
-Q : omg why does it say <br>????!?!!?11
+Q : omg why does it say < br >????!?!!?11
 A : Idiot.
 ```
 string rawDownload = client.DownloadString("http://example.net/api.php");
